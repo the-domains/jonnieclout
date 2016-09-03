@@ -1,8 +1,19 @@
-typography_spectrum: 0.5906148434150964
+title: h e l l o
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3511328850872815
   brandStrength: 0.820143137127161
-  lightness: 0.09547223034314811
-  saturation: 0.35113288508728147
   rhythmicContrast: 0.7197771328501403
   brandColors:
     - '#334D5C'
@@ -10,7 +21,8 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+  lightness: 0.09547223034314811
+typography_spectrum: 0.2361702
+description: shall we begin
 layout_spectrum: 0.6598334982991219
 name: jonnieclout
-title: h e l l o
-description: shall we begin
